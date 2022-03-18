@@ -1,3 +1,3 @@
 # TMODLOADER DRAMACUS MOD
-Terraria Mod create by 2dram
+Terraria Mod created by 2dram
 
